@@ -1,7 +1,7 @@
  ##                                                                   **Bʟᴀᴄᴋ**
  
 ![1c0448350625530d3873a100248540d9](https://user-images.githubusercontent.com/92801199/142028018-eed0f6a1-9bdb-437a-9aa2-961c64b2906d.gif)
-## Oʟᴀ́﹐ ᴍᴇ ᴄʜᴀᴍᴏ Black﹐ ᴛᴇɴʜᴏ ₁₇ ᴀɴᴏs ᴇ ᴇsᴛᴏᴜ ᴇsᴛᴜᴅᴀɴᴅᴏ ᴘʏᴛʜᴏɴ﹐ ᴇsᴛᴏᴜ ᴍᴏʀᴀɴᴅᴏ ᴇᴍ Sᴀ̃ᴏ Pᴀᴜʟᴏ﹐ Bʀᴀsɪʟ.
+## Olá﹐ me chamo black﹐ tenho 17 anos e estudo python﹐estou morando em São Paulo, Brasil.
 
 <h1 align="center">Minha Rede Social :D</h1>
 <p align="center">
