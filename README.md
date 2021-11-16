@@ -17,3 +17,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white%22%3E">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white%22%3E">
   </p>
+  <div align='center'>
+  <img height="225px" src="https://github-readme-stats.vercel.app/api?username=BlackAgain&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" />
+  <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackAgain&title_color=ff0000&text_color=fff&icon_color=fff&bg_color=181818" />
+</div> <br>
