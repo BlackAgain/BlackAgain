@@ -1,6 +1,6 @@
  ##                                                                   **Bʟᴀᴄᴋ**
  <div align='center'>
-  <img height="600px" src="https://user-images.githubusercontent.com/92801199/142072005-c285bd7a-2765-4419-93b0-fe6c1c2f2d17.gif" />
+  <img height="430px" src="https://user-images.githubusercontent.com/92801199/142072005-c285bd7a-2765-4419-93b0-fe6c1c2f2d17.gif" />
 </div>
 
 ## 𝑶𝒍𝒂́﹐ 𝒎𝒆 𝒄𝒉𝒂𝒎𝒐 𝒃𝒍𝒂𝒄𝒌﹐ 𝒕𝒆𝒏𝒉𝒐 𝟏𝟕 𝒂𝒏𝒐𝒔 𝒆 𝒆𝒔𝒕𝒖𝒅𝒐 𝒑𝒚𝒕𝒉𝒐𝒏﹐𝒆𝒔𝒕𝒐𝒖 𝒎𝒐𝒓𝒂𝒏𝒅𝒐 𝒆𝒎 𝑺𝒂̃𝒐 𝑷𝒂𝒖𝒍𝒐, 𝑩𝒓𝒂𝒔𝒊𝒍.
