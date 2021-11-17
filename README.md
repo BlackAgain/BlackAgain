@@ -1,4 +1,5 @@
- ##                                                                   **𝑩𝑳𝑨𝑪𝑲**
+# <h1 align="center">𝑩𝑳𝑨𝑪𝑲</h1>
+<p align="center">
  <div align='center'>
   <img height="430px" src="https://user-images.githubusercontent.com/92801199/142072005-c285bd7a-2765-4419-93b0-fe6c1c2f2d17.gif" />
 </div>
