@@ -9,6 +9,18 @@
 <img height="380px" src="https://user-images.githubusercontent.com/92801199/142028018-eed0f6a1-9bdb-437a-9aa2-961c64b2906d.gif" />
 </div>
 
+"A grande maioria da Sociedade consiste em ninguéns sem talento, mas eles ainda assim conseguem encontrar um grau de felicidade.rnVocê não precisa de talento, o talento é um mero grilhão, e quanto maior ele for, mais ele impede de buscar a felicidade. Uma princesa por exemplo, não significa que ela tem uma vida perfeita."
+
+Komaeda Nagito (Danganronpa)
+
+<div align='center'>
+  <img height="200px" src="https://user-images.githubusercontent.com/92801199/142097114-f74520f3-179b-4703-9b96-50f8da740490.gif" />
+</div>
+
+ "Duvidar de seus aliados é uma coisa horrível de se fazer."
+
+Oogami Sakura (Danganronpa)
+
 <h1 align="center">Minha Rede Social :D</h1>
 <p align="center">
                 <a href="https://twitter.com/black_imperador" target="_blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="BlackImperador" height="50" width="50" /> 
